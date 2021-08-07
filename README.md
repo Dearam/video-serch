@@ -3,11 +3,11 @@
 <h2>Instructions</h2>
 <ul>
   Install dependencies. Make sure you already have nodejs & npm installed in your system.<br/>
-  <li>$ npm install # or yarn</li><br/>
-  First clone this repository.<br/>
-  <li>$ git clone https://github.com/dearam/video-search.git<li><br/>
-  To run an react app<br/>
-  <li>$ npm start</li><br/>
-  To create an react app<br/>
+  <li>$ npm install # or yarn</li><br/><br/>
+  <p>First clone this repository.</p><br/>
+  <li>$ git clone https://github.com/dearam/video-search.git<li><br/><br/>
+  <p>To run an react app</p><br/>
+  <li>$ npm start</li><br/><br/>
+  <p>To create an react app</p><br/>
   <li>npx create-react-app video-search</li>
 
