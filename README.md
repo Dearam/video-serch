@@ -16,7 +16,8 @@
   
   
   
-![Video2](https://user-images.githubusercontent.com/80329368/128596272-12b68d2e-7126-4d06-8ed3-5d251e1c7dbd.png)
+![photo](https://user-images.githubusercontent.com/80329368/128596633-445205b6-9b2f-4b4c-a4c8-fc710440822a.jpg)
+
 
 
 
